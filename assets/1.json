@@ -1,0 +1,19 @@
+{
+  "name": "Walter Disney's hall",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FerUK1e2kiUhzsXs1gHVSZJquDkStfcsqS7zEYEDrku8",
+        "share": 100
+      }
+    ]
+  }
+}

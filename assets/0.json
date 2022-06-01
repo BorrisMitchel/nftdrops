@@ -1,0 +1,19 @@
+{
+  "name": "Palm trees",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FerUK1e2kiUhzsXs1gHVSZJquDkStfcsqS7zEYEDrku8",
+        "share": 100
+      }
+    ]
+  }
+}
